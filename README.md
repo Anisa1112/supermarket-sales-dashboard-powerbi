@@ -63,9 +63,9 @@ It transforms raw transactional data into meaningful visualizations to support d
 
 ```
 ├── dataset/
-│   └── supermarket_sales.csv
+│   └── SuperMarket Analysis.csv
 ├── dashboard/
-│   └── supermarket_sales.pbix
+│   └── Portofolio.pbix
 ├── images/
 │   └── dashboard_preview.png
 └── README.md
@@ -91,7 +91,7 @@ It transforms raw transactional data into meaningful visualizations to support d
 
 ## Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
